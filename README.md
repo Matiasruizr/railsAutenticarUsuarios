@@ -40,3 +40,6 @@ Recuerda ademas reiniciar el servidor!
 
 Corre el siguiente comando
 rails g devise:install
+
+# CanCan Permisos
+https://github.com/ryanb/cancan
