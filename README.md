@@ -41,5 +41,9 @@ Recuerda ademas reiniciar el servidor!
 Corre el siguiente comando
 rails g devise:install
 
+Inicia las vistas para poder modificarlas
+
+rails g devise:views
+
 # CanCan Permisos
 https://github.com/ryanb/cancan
